@@ -1,0 +1,14 @@
+{
+  "name": "testtask",
+  "version": "1.0.0",
+  "description": "Test task for devops",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton Malyi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
